@@ -5,7 +5,7 @@
 
 以下のデータがCSVとして公開されています。
 
-* [避難生活における生活ノウハウ](https://github.com/CivicHackKobe/civichackkobe-2016-datathon/blob/master/disaster-base-hospital.csv) 阪神淡路大震災の被災者の経験に基づいた避難生活ノウハウ、生活に関する自治体の運営ノウハウ等を収録しています。
+* [避難生活における生活ノウハウ](https://github.com/CivicHackKobe/civichackkobe-2016-datathon/blob/master/emergency-evacuation-knowhow.csv) 阪神淡路大震災の被災者の経験に基づいた避難生活ノウハウ、生活に関する自治体の運営ノウハウ等を収録しています。
 * [災害拠点病院一覧](https://github.com/CivicHackKobe/civichackkobe-2016-datathon/blob/master/disaster-base-hospital.csv) 全国の厚生労働省指定 災害拠点病院の一覧です。[厚生労働省のPDF](http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089060.html）に掲載されている「災害拠点病院一覧（平成27年4月1日現在，http://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/saigai_iryou/dl/saigai_iryou07.pdf)を元データとして，病院の緯度経度情報が追加されています．
 
 # Contribute
